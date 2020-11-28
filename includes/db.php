@@ -1,6 +1,6 @@
 <?php
 
-    $con = mysqli_connect("r1bsyfx4gbowdsis.cbetxkdyhwsb.us-east-1.rds.amazonaws.com", "uy4zye47hppdpbag", "lkh98um6utugxtxw", "c36fnuj94y3atvt9");
+    $con = mysqli_connect("us-cdbr-east-02.cleardb.com", "b135c5c7df3b2f", "c4c91567", "heroku_dbf2dbd84119647");
 
     if (!$con) {
         
